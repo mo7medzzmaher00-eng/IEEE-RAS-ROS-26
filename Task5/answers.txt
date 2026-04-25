@@ -1,0 +1,15 @@
+-rw-r--r--:
+File permissions:
+Owner (read, write)
+Group (read)
+Others (read)
+Executable file:
+script.sh (because it has x in rwxr-xr-x)
+Only owner access:
+secret.txt (rw-------)
+Difference:
+file1.txt → everyone can read
+secret.txt → only owner can access
+Three parts:
+Owner / Group / Others
+Permissions: r (read), w (write), x (execute)
