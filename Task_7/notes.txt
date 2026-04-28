@@ -1,1 +1,3 @@
-
+demonstrates inheritance and method overriding using animal and dog classes
+shows how to manage data using a class with a list and simple methods
+uses composition by storing Passenger objects inside a flight class
