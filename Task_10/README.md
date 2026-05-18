@@ -11,5 +11,7 @@
 
 # Note
 Nodes are executable programs in ROS2
+
 Topics are communication channels between nodes
+
 Services use request/response communication
